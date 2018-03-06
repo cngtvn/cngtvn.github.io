@@ -1,0 +1,9 @@
+Package: com.cngtvn.inapp
+Name: InApp Purchases iOS 11.x
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Description: Hack InApp Purchaser iOS 10.x iOS 11.x
+Author: iGosu
+Section: Tweaks
+Depends: mobilesubstrate
+
