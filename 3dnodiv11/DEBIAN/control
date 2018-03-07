@@ -1,0 +1,10 @@
+Package: com.igosu.3dnodiv11
+Name: 3DNoDiv11
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Remove the 3D Touch Separators for iOS 11!
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
+Version: 1.0
+Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.3dnodiv11

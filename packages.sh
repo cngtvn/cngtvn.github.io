@@ -1,1 +1,1 @@
-dpkg-deb -Zgzip -b com.igosu.littlex
+dpkg-deb -Zgzip -b 3dnodiv11

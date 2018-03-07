@@ -1,7 +1,7 @@
 <package>
-	<id>com.igosu.littlex</id>
-	<name>LittleX</name>
-	<version>1.3.4</version>
+	<id>com.igosu.3dnodiv11</id>
+	<name>3DNoDiv11</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Add features of iPhone X to all legacy devices that do not support iOS 11 ‬</description>
+		<description>Remove the 3D Touch Separators for iOS 11! ‬</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
