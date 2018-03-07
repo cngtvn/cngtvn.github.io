@@ -1,16 +1,15 @@
 <package>
-	<id>com.igosu.3dnodiv11</id>
-	<name>3DNoDiv11</name>
-	<version>1.0</version>
+	<id>com.igosu.i8corners</id>
+	<name>i8Corners</name>
+	<version>0.12</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
                         <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Remove the 3D Touch Separators for iOS 11! ‬</description>
-                <description>No option to configure</description>
+		<description>iPhone 8 inspired screen corners‬</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>

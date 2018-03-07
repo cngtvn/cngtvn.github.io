@@ -1,0 +1,10 @@
+Package: com.igosu.i8corners
+Name: i8Corners
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iPhone 8 inspired screen corners
+Maintainer: iGosu
+Author: Antique
+Section: Tweaks
+Version: 0.12
+Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.i8corners

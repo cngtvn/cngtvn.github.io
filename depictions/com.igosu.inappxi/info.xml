@@ -1,15 +1,15 @@
 <package>
-	<id>com.igosu.3dnodiv11</id>
-	<name>3DNoDiv11</name>
-	<version>1.0</version>
+	<id>com.igosu.inappxi</id>
+	<name>In App Purchase XI</name>
+	<version>1.0~beta1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
                         <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Remove the 3D Touch Separators for iOS 11! ‬</description>
+		<description>Hack in app purchase for iOS 11! ‬</description>
                 <description>No option to configure</description>
 	</descriptionlist>
 	<changelog>
