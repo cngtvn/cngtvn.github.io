@@ -1,0 +1,13 @@
+Package: com.igosu.3dnodiv11
+Name: 3DNoDiv11 
+Version: 1.0~beta1
+Size: 4.626
+Architecture: iphoneos-arm
+Description: Remove the 3D Touch Separators for iOS 11!
+Maintainer: iGosu
+Section: Tweaks
+MD5sum: f4ef8132175988068462a579320d0055
+SHA1sum: 4d64bbfe648d4aacb326503b215c1b87b974b336
+SHA256sum: 67bda0ea9274383689041772bb7c536ad253b9824da1eedef83f3a1b707da80e
+Filename: debs//3DNoDiv11.deb
+
