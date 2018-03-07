@@ -8,9 +8,6 @@
                         <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<descriptionlist>
 		<description>Add features of iPhone X to all legacy devices that do not support iOS 11 ‬</description>
 	</descriptionlist>
