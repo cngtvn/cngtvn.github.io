@@ -1,6 +1,6 @@
 <package>
-	<id>com.igosu.nocamsound</id>
-	<name>NoCamSoundPlz</name>
+	<id>com.igosu.fixshuttersound</id>
+	<name>Fix Shutter Sound J/A KH/A</name>
 	<version>1.0~beta1</version>
 	<compatibility>
 		<firmware>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Tắt âm thanh chụp ảnh mọi lúc trên mọi iOS ‬</description>
+		<description>Sửa lỗi âm chụp ảnh trên các máy Nhật và Hàn ‬</description>
                 <description>No option to configure</description>
 	</descriptionlist>
 	<changelog>

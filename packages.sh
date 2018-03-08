@@ -4,7 +4,7 @@ dpkg-deb -Zgzip -b inApp
 dpkg-deb -Zgzip -b i8Corners
 dpkg-deb -Zgzip -b batterywidget
 dpkg-deb -Zgzip -b nocarriername
-dpkg-deb -Zgzip -b NoCamSoundPlz
+dpkg-deb -Zgzip -b fixshuttersound
 
 
 
