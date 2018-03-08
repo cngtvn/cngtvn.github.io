@@ -4,7 +4,7 @@ Version: 1.0
 Depends: mobilesubstrate
 Section: Systems
 Architecture: iphoneos-arm
-Name: No Region Futures XI
+Name: No Region Features XI
 Description: Sửa lỗi âm thanh chụp ảnh các máy Nhật và Hàn iOS 10,11
 Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.noregionfeatures
 Maintainer: iGosu <iGosu@icloud.com>

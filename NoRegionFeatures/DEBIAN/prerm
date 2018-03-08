@@ -1,9 +1,9 @@
 #!/bin/sh
 declare -a cydia 
 cydia=($CYDIA) 
-echo "Restore Region Futures；"
-echo "Restore Region Futures；"
-echo "Restore Region Futures；"
+echo "Restore Region Features；"
+echo "Restore Region Features；"
+echo "Restore Region Features；"
 
 rm -r /System/Library/RegionFutures/RegionFeatures_ipad.txt
 rm -r /System/Library/RegionFutures/RegionFeatures_iphone.txt
