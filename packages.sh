@@ -6,6 +6,7 @@ dpkg-deb -Zgzip -b batterywidget
 dpkg-deb -Zgzip -b nocarriername
 dpkg-deb -Zgzip -b fixshuttersound
 dpkg-deb -Zgzip -b FilzaElectra
+dpkg-deb -Zgzip -b noshuttersoundplz
 
 
 

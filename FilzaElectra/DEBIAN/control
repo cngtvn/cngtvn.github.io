@@ -9,4 +9,5 @@ Maintainer : iGosu
 Section: Tweaks
 Depends: mobilesubstrate
 Conflicts: com.tigisoftware.filza64bit
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
