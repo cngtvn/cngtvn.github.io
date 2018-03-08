@@ -1,15 +1,15 @@
 <package>
-	<id>com.igosu.noregionfeatures</id>
-	<name>No Region Features XI</name>
-	<version>1.0</version>
+	<id>com.igosu.nocamsound</id>
+	<name>NoCamSoundPlz</name>
+	<version>1.0~beta1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>6.0</miniOS>
                         <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Sửa lỗi âm thanh chụp ảnh các máy Nhật và Hàn iOS 10,11‬</description>
+		<description>Tắt âm thanh chụp ảnh mọi lúc trên mọi iOS ‬</description>
                 <description>No option to configure</description>
 	</descriptionlist>
 	<changelog>
