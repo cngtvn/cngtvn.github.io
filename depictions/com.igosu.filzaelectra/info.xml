@@ -1,0 +1,17 @@
+<package>
+	<id>com.igosu.filzaelectra</id>
+	<name>Filza File Manager Electra</name>
+	<version>1.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>File Manager for Electra Jailbreak</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

@@ -1,0 +1,12 @@
+Package: com.igosu.filzaelectra
+Name: Filza File Manager Electra
+Version: 1.0~beta5
+Architecture: iphoneos-arm
+Description: File Manager for Electra Jailbreak
+Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.filzaelectra
+Author: TIGI Software
+Maintainer : iGosu 
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: com.tigisoftware.filza64bit
+
