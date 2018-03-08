@@ -1,0 +1,18 @@
+<package>
+	<id>com.igosu.noregionfeatures</id>
+	<name>No Region Futures XI</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Sửa lỗi âm thanh chụp ảnh các máy Nhật và Hàn iOS 10,11‬</description>
+                <description>No option to configure</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
