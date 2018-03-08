@@ -1,6 +1,6 @@
 Package: com.igosu.fixshuttersound
 Name: Fix Shutter Sound J/A KH/A
-Version: 1.0~beta1
+Version: 1.0~beta2
 Architecture: iphoneos-arm
 Description: Fix Shutter Sound on iPhone J/A and KH/A
 Maintainer: iGosu <igosu@icloud.com>

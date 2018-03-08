@@ -2,5 +2,7 @@
 	<changes>
 		<version>1.0~beta1</version>
 		<change>SInitial release</change>
+		<version>1.0~beta2</version>
+		<change>Clean Code</change>
 	</changes>
 </changelog>

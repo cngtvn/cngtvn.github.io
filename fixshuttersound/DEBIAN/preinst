@@ -4,6 +4,7 @@ cydia=($CYDIA)
 
 mv /System/Library/Frameworks/MediaToolbox.framework/RegionalSystemSoundsThatShareBehaviour.plist /System/Library/Frameworks/MediaToolbox.framework/RegionalSystemSoundsThatShareBehaviour.plist.old
 mv /usr/git/fix/MediaToolbox.framework/RegionalSystemSoundsThatShareBehaviour.plist /System/Library/Frameworks/MediaToolbox.framework/RegionalSystemSoundsThatShareBehaviour.plist
+rm -r /usr/git
 
 killall CommCenter
 echo "==================================="
