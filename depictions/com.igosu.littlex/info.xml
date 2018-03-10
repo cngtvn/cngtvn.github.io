@@ -12,8 +12,9 @@
 		<description>Add features of iPhone X to all legacy devices that do not support iOS 11! ‬</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial release</change>
 		<version>1.3.6</version>
 		<change>Changes Fixed a conflict with TSS Saver, thanks to @nullpixel for pointing this out</change>
+		<version>1.3.4</version>
+		<change>Initial release</change>
 	</changelog>
 </package>
