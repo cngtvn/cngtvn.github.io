@@ -13,5 +13,7 @@
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
+		<version>1.3.6</version>
+		<change>Changes Fixed a conflict with TSS Saver, thanks to @nullpixel for pointing this out</change>
 	</changelog>
 </package>

@@ -1,11 +1,11 @@
 Package: com.igosu.littlex
 Name: LittleX
-Version: 1.3.4
+Version: 1.3.6
 Architecture: iphoneos-arm
 Description: Add features of iPhone X to all legacy devices that do not support iOS 11 ‬
 Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.littlex
 Author: Andywiik
 Section: Tweaks
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Maintainer: iGosu <iGosu@icloud.com>
 

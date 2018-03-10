@@ -7,6 +7,8 @@ dpkg-deb -Zgzip -b nocarriername
 dpkg-deb -Zgzip -b fixshuttersound
 dpkg-deb -Zgzip -b FilzaElectra
 dpkg-deb -Zgzip -b noshuttersoundplz
+dpkg-deb -Zgzip -b noctisxi
+dpkg-deb -Zgzip -b intelix
 
 
 

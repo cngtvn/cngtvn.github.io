@@ -1,0 +1,18 @@
+<package>
+	<id>com.igosu.intelix</id>
+	<name>InteliX</name>
+	<version>1.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Grouped Notifications on iOS 11 ‬</description>
+                <description>No option to configure</description>
+	</descriptionlist>
+	<changelog>
+		<change>Changes Fixed a crash</change>
+	</changelog>
+</package>
