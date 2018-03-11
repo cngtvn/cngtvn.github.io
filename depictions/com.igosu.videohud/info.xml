@@ -13,6 +13,5 @@
 	</descriptionlist>
 	<changelog>
 		<change>Fixes the right to left language issues</change>
-		<change>1.2 changes that ugly blue colour to white </change>
 	</changelog>
 </package>
