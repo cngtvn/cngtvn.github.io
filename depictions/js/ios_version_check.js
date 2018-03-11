@@ -16,11 +16,7 @@ function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 
 	function parseVersionString(version) {
 		var bits = version.split(".");
-		return [ 
-				parseInt(bits[0], 10), 
-				parseInt(bits[1] ? bits[1] : 0, 10), 
-				parseInt(bits[2] ? bits[2] : 0, 10)
-			   ];
+		return [ bits[0], bits[1] ? bits[1] : 0, bits[2] ? bits[2] : 0 ];
 	}
 
 	function compareVersions(one, two) {
@@ -51,11 +47,7 @@ function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 		return 0;
 	}
 
-	var osVersion = [ 
-						parseInt(version[2], 10), 
-						parseInt(version[3], 10), 
-						parseInt(version[4] ? version[5] : 0, 10)
-					],
+	var osVersion = [ version[2], version[3], version[4] ? version[5] : 0 ],
 
 		osString = osVersion[0] + "." + osVersion[1] + (osVersion[2] && osVersion[2] != 0 ? "." + osVersion[2] : ""),
 		minString = minIOS,
