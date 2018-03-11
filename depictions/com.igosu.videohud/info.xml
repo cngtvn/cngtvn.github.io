@@ -1,7 +1,7 @@
 <package>
 	<id>com.igosu.videohud</id>
 	<name>VideoHUD</name>
-	<version>1.2-3+debug</version>
+	<version>1.3-1+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -12,6 +12,7 @@
 		<description>Implement the volume HUD from the iOS 11 video player systemwide!‬</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixes the right to left language issues</change>
+		<change>1.2 changes that ugly blue colour to white </change>
 	</changelog>
 </package>
