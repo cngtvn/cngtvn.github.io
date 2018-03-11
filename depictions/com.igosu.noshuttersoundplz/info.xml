@@ -4,7 +4,7 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>8.0</miniOS>
+			<maxiOS>11.2</maxiOS>
                         <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
