@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>1.3-1+debug</version>
-		<change>Initial release</change>
+		<change>Fixes the right to left language issues</change>
 	</changes>
 </changelog>
