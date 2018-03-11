@@ -1,0 +1,17 @@
+<package>
+	<id>com.igosu.videohud</id>
+	<name>VideoHUD</name>
+	<version>1.2-3+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Implement the volume HUD from the iOS 11 video player systemwide!‬</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
