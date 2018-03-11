@@ -9,7 +9,8 @@ dpkg-deb -Zgzip -b FilzaElectra
 dpkg-deb -Zgzip -b noshuttersoundplz
 dpkg-deb -Zgzip -b noctisxi
 dpkg-deb -Zgzip -b intelix
-dpkg-deb -Zgzip -b videohub
+dpkg-deb -Zgzip -b videohud
+
 
 
 
