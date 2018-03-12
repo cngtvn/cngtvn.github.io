@@ -1,0 +1,22 @@
+<package>
+	<id>com.igosu.folderbackgroundbegone</id>
+	<name>FolderBackgroundBegone!</name>
+	<version>0.0.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>An awesome MobileSubstrate tweak!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>11.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
