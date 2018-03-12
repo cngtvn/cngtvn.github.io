@@ -1,9 +1,0 @@
-Package: com.igosu.noshuttersoundplz
-Name: NoShutterSoundPlz
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Make camera shutter sound always silent!
-Maintainer: iGosu <igosu@icloud.com>
-Author: iGosu <igosu@icloud.com>
-Section: Tweaks
-Depiction: https://cngtvn.github.io/depictions/?p=com.igosu.noshuttersoundplz
