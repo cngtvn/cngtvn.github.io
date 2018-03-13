@@ -1,0 +1,17 @@
+<package>
+	<id>com.igosu.spotilife</id>
+	<name>Spotilife</name>
+	<version>0.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                        <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)‬</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
