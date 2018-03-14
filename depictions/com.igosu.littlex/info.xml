@@ -12,9 +12,7 @@
 		<description>Add features of iPhone X to all legacy devices that do not support iOS 11! ‬</description>
 	</descriptionlist>
 	<changelog>
-		<version>1.3.7</version>
 		<change>Fixed over heating</change>
 		<change>Will not work inside of cydia, this is on purpose</change>
-	</changes>
 	</changelog>
 </package>
