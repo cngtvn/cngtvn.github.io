@@ -1,7 +1,7 @@
 <package>
 	<id>com.igosu.filzaelectra</id>
 	<name>Filza File Manager 64-bit</name>
-	<version>3.5.0-6</version>
+	<version>3.5.0-6~beta1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
