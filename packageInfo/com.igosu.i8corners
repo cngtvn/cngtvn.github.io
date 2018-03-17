@@ -1,0 +1,7 @@
+{
+	"name": "i8Corners",
+	"desc_short": "iPhone 8 inspired screen corners.",
+	"desc_long": "Configure Options from Settings.",
+	"compatitle": "iOS 10 & 11",
+	"changelog": "<strong>0.12</strong><br>+ Initial Release.<br>",
+}

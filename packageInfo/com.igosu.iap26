@@ -1,0 +1,7 @@
+{
+	"name": "iAP26",
+	"desc_short": "Free in app purchases for iOS 10,11.",
+	"desc_long": "You'll know if it doesn't work when (iAP transaction fails/app crashes).<br><br>Configure Options from Settings.",
+	"compatitle": "iOS 10 & 11",
+	"changelog": "<strong>0.0.1-5</strong><br>+ Initial Release.<br>",
+}

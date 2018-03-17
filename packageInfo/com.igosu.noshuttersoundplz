@@ -1,0 +1,7 @@
+{
+	"name": "NoShutterSoundPlz",
+	"desc_short": "Make camera shutter sound always silent!",
+	"desc_long": "No options to configure.",
+	"compatitle": "iOS 6, 7, 8, 9, 10, 11",
+	"changelog": "<strong>2.0</strong><br>+ Final Release.<br>",
+}
