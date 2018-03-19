@@ -1,0 +1,7 @@
+{
+	"name": "libSparkAppList",
+	"desc_short": "AppList alternative.",
+	"desc_long": "No options to configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.4</strong><br>+ Initial Release.<br>",
+}
