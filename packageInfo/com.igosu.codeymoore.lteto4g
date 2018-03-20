@@ -3,5 +3,5 @@
 	"desc_short": "Changed Cellular Signal LTE To 4G.",
 	"desc_long": "No options to configure.",
 	"compatitle": "iOS 9, 10, 11",
-	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>1.0-2</strong><br>+ Fix some bug.<br><strong>1.0</strong><br>+ Initial Release.<br>",
 }
