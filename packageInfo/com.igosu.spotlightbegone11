@@ -1,0 +1,7 @@
+{
+	"name": "SpotlightBeGone11",
+	"desc_short": "SpotlightBeGone11 simply removes spotlight completely.",
+	"desc_long": "No options to configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.1</strong><br>+ Initial Release.<br>",
+}
