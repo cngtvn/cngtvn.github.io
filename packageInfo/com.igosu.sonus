@@ -1,0 +1,8 @@
+{
+	"name": "Sonus",
+	"desc_short": "A better & highly customizable volume hud.",
+	"desc_long": "Configure Options From Settings.",
+	"compatitle": "iOS 8, 9, 10, 11",
+	"changelog": "<strong>3.0.2-3</strong><br>+ Support iOS 8.4 and up.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='http://moreinfo.thebigboss.org/moreinfo/sonus1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/sonus1.jpg'/></a><br><a href='http://moreinfo.thebigboss.org/moreinfo/sonus2.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/sonus2.jpg'/></a><br><a href='http://moreinfo.thebigboss.org/moreinfo/sonus3.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/sonus3.jpg'/></a></div>",
+}
