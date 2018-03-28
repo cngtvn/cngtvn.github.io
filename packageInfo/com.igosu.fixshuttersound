@@ -1,7 +1,7 @@
 {
 	"name": "Fix Shutter Sound J/A KH/A",
-	"desc_short": "Fix Shutter Sound on iPhone J/A and KH/A.",
-	"desc_long": "No options to configure.",
+	"desc_short": "Tắt âm chụp ảnh khi gạt rung cho các iPhone, iPad Nhật và Hàn",
+	"desc_long": "Không có tùy chỉnh trong cài đặt.",
 	"compatitle": "iOS 6, 7, 8, 9, 10, 11",
-	"changelog": "<strong>2.0</strong><br>+ Final Release.<br>",
+	"changelog": "<strong>2.0</strong><br>+ Phiên bản hoàn chỉnh.<br>",
 }

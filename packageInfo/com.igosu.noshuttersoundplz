@@ -1,7 +1,7 @@
 {
 	"name": "NoShutterSoundPlz",
-	"desc_short": "Make camera shutter sound always silent!",
-	"desc_long": "No options to configure.",
+	"desc_short": "Tắt âm chụp ảnh vĩnh viễn.",
+	"desc_long": "Không có tùy trỉnh trong cài đặt.",
 	"compatitle": "iOS 6, 7, 8, 9, 10, 11",
-	"changelog": "<strong>2.0</strong><br>+ Final Release.<br>",
+	"changelog": "<strong>2.0</strong><br>+ Phiên bản hoàn chỉnh.<br>",
 }

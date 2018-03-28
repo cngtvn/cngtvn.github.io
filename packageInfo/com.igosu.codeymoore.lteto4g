@@ -1,7 +1,7 @@
 {
 	"name": "LTEto4G",
-	"desc_short": "Changed Cellular Signal LTE To 4G.",
-	"desc_long": "No options to configure.",
+	"desc_short": "Thay đổi chữ mạng di động từ LTE thành 4G",
+	"desc_long": "Không có tùy chỉnh trong cài đặt.",
 	"compatitle": "iOS 9, 10, 11",
-	"changelog": "<strong>1.0-2</strong><br>+ Fix some bug.<br><strong>1.0</strong><br>+ Initial Release.<br>",
+	"changelog": "<strong>1.0-2</strong><br>+ Sửa 1 số lỗi.<br><strong>1.0</strong><br>+ Phiên bản đầu tiên.<br>",
 }

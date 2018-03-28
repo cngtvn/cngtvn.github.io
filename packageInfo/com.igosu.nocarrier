@@ -1,7 +1,7 @@
 {
 	"name": "No Carrier Name",
-	"desc_short": "Hide Carrier Name for iOS 10,11.",
-	"desc_long": "No options to configure.",
-	"compatitle": "iOS 10 & 11",
-	"changelog": "<strong>1.0</strong><br>+ Initial Release.<br>",
+	"desc_short": "Ẩn tên nhà mạng.",
+	"desc_long": "Không có tùy chỉnh trong cài đặt.",
+	"compatitle": "iOS 10, 11",
+	"changelog": "<strong>1.0</strong><br>+ Phiên bản đầu tiên.<br>",
 }

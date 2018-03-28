@@ -1,7 +1,7 @@
 {
 	"name": "Spotilife",
-	"desc_short": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore).",
-	"desc_long": "Configure Options from Spotify's Setting.",
-	"compatitle": "iOS 10 & 11",
-	"changelog": "<strong>0.8</strong><br>+ Initial Release.<br>",
+	"desc_short": "Spotify Vô hạn skips bài hát, loại bỏ qoảng cáo, nghe nhạc chất lượng cao hơn... Yêu cầu Spotify App (AppStore).",
+	"desc_long": "Tùy chỉnh trong ứng dụng Spotify.",
+	"compatitle": "iOS 10, 11",
+	"changelog": "<strong>0.8</strong><br>+ Phiên bản đầu tiên.<br>",
 }

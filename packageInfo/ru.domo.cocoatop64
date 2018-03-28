@@ -1,8 +1,8 @@
 {
 	"name": "CocoaTop",
-	"desc_short": "Process Viewer for iOS GUI (64-bit).",
-	"desc_long": "Open app from homescreen.",
+	"desc_short": "Trình xem các tiến trình cho iOS (64bit)",
+	"desc_long": "Mở ứng dụng tại màn hình chinhs.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>2.0.2</strong><br>+ Support iOS 11.<br>",
+	"changelog": "<strong>2.0.2</strong><br>+ hỗ trợ iOS 11.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://moreinfo.thebigboss.org/moreinfo/cocoatop1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/cocoatop1.jpg'/></a><br></div>",
 }
