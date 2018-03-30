@@ -1,6 +1,6 @@
 {
 	"name": "<strong>TSS Saver</strong>",
-	"desc_short": "Ứng dụng lưu shsh2 1 cách đơn giản và an toàn nhất.",
+	"desc_short": "Ứng dụng lưu shsh2 một cách đơn giản và an toàn nhất.",
 	"desc_long": "Mở ứng dụng ở màn hình chinh.<br>Shsh2 sẽ được lưu vĩnh viễn trên server.",
 	"compatitle": "iOS 8, 9, 10, 11",
 	"changelog": "<strong>1.2.0</strong><br>+ Tương thích với iOS11.<br>+ iCon mới.<br>+ Và nhiều hơn nữa.<br>",
